@@ -1,0 +1,14 @@
+{
+    "TheRedStone2000": {
+        "op_level": "administrator",
+        "hashed_password": "8808280587336577405",
+        "data": {
+            "secret_string": "",
+            "secret_list": [],
+            "secret_dir": {
+
+            }
+        },
+        "banned": 0
+    }
+}
